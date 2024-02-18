@@ -90,16 +90,26 @@ var upperCasedCharacters = [
 
 // Function to prompt user for password options
 function getPasswordOptions() {
+  //prompt
+var length =prompt()
+  //if, alert - return null;
+
+  //confirms
 
 }
 
 // Function for getting a random element from an array
 function getRandom(arr) {
-
+  const index = Math.floor(Math.random() * arr.length)
+  console.log(index);
+  const element = arr[index];
+  console.log(index);
+return element 
 }
 
 // Function to generate password with user input
 function generatePassword() {
+  var options = getPasswordOptions();
 
 }
 
