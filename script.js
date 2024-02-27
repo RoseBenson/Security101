@@ -26,7 +26,7 @@ function getPasswordOptions() {
   }
 
   var includeSpecialCharacters = confirm("Do you want to include special characters?");
-  var includeNumericCharacters = confirm("Do you want to include numeric characters?");
+  var includeNumericCharacters = confirm("Do you want to include numeric characters in passsword?");
   var includeLowerCasedCharacters = confirm("Do you want to include lowercase characters?");
   var includeUpperCasedCharacters = confirm("Do you want to include uppercase characters?");
 
