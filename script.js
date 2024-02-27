@@ -44,7 +44,7 @@ function getPasswordOptions() {
   };
 }
 
-// Function for getting a random element from an array
+// Function is for getting a random element from an array
 function getRandom(arr) {
   const index = Math.floor(Math.random() * arr.length)
   return arr[index];
