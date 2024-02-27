@@ -4,39 +4,19 @@
 
 ## Description
 
-We as the Team are excited to introduce you to Movie-Quest. With Movie-Quest users can easily search for the movie that they are interested to know more information about, such as the Casts, Release dates, The most recent rating and the ability to watch the trailer all in one place.
-
-But that is not all! We added a personal touch by allowing users to save their favourite movies by checking their watchlist for easy access.
-
+In this project I worked on a super security password generator. This password generator endevors to give you a series of prompts allowing you to specify the type of password you would like. From choosing if you would like upper or lowercase, to allowing you to choose the length or even specify for special characters. This app uses different technologies to allow for an interactive experience for the user. 
 
 ## Table of Contents 
 
 - [Usage](#usage)
-- [Installation](#installation)
-- [Collaborators](#collaborators)
 - [Technologies](#technologies)
-- [APIs](#apis)
 - [License](#license)
 
 ## Usage
 
 #### Access the application on: - 
 
-[Link to deployed page]()
-
-
-## Description
-
-We as the Team are excited to introduce you to Movie-Quest. With Movie-Quest users can easily search for the movie that they are interested to know more information about, such as the Casts, Release dates, The most recent rating and the ability to watch the trailer all in one place.
-
-But that is not all! We added a personal touch by allowing users to save their favourite movies by checking their watchlist for easy access.
-
-
-## Table of Contents 
-
-- [Usage](#usage)
-- [Technologies](#technologies)
-- [License](#license)
+[Link to deployed page](https://rosebenson.github.io/Security101/)
 
 
 ## Technologies 
