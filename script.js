@@ -50,7 +50,7 @@ function getRandom(arr) {
   return arr[index];
 }
 
-// Function to generate password with user input
+// Function is to generate password with user input
 function generatePassword() {
   var options = getPasswordOptions();
   var availableCharacters = [];
